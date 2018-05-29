@@ -1,0 +1,7 @@
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\bin\Debug\netcoreapp1.1\DesingPatterns.Observer.deps.json
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\bin\Debug\netcoreapp1.1\DesingPatterns.Observer.dll
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\bin\Debug\netcoreapp1.1\DesingPatterns.Observer.pdb
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\obj\Debug\netcoreapp1.1\DesingPatterns.Observer.csprojResolveAssemblyReference.cache
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\obj\Debug\netcoreapp1.1\DesingPatterns.Observer.AssemblyInfo.cs
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\obj\Debug\netcoreapp1.1\DesingPatterns.Observer.dll
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Observer\obj\Debug\netcoreapp1.1\DesingPatterns.Observer.pdb

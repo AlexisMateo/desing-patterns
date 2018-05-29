@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesingPatterns.Builder\DesingPatterns.Builder.csproj" />
+    <ProjectReference Include="..\DesingPatterns.Factory\DesingPatterns.Factory.csproj" />
+    <ProjectReference Include="..\DesingPatterns.Observer\DesingPatterns.Observer.csproj" />
+  </ItemGroup>
+
+</Project>

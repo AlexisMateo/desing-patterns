@@ -1,0 +1,7 @@
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\bin\Debug\netcoreapp1.1\DesingPatterns.Builder.deps.json
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\bin\Debug\netcoreapp1.1\DesingPatterns.Builder.dll
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\bin\Debug\netcoreapp1.1\DesingPatterns.Builder.pdb
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\obj\Debug\netcoreapp1.1\DesingPatterns.Builder.csprojResolveAssemblyReference.cache
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\obj\Debug\netcoreapp1.1\DesingPatterns.Builder.AssemblyInfo.cs
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\obj\Debug\netcoreapp1.1\DesingPatterns.Builder.dll
+C:\Users\Alexis Mateo\Documents\Visual Studio 2017\Projects\DesingPatterns\DesingPatterns.Builder\obj\Debug\netcoreapp1.1\DesingPatterns.Builder.pdb

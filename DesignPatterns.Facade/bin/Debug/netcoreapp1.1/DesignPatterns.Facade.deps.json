@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "designpatterns.facade/1.0.0": {
+        "dependencies": {
+          "DesingPatterns.Builder": "1.0.0",
+          "DesingPatterns.Factory": "1.0.0",
+          "DesingPatterns.Observer": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.Facade.dll": {}
+        }
+      },
+      "desingpatterns.builder/1.0.0": {
+        "runtime": {
+          "DesingPatterns.Builder.dll": {}
+        }
+      },
+      "desingpatterns.factory/1.0.0": {
+        "runtime": {
+          "DesingPatterns.Factory.dll": {}
+        }
+      },
+      "desingpatterns.observer/1.0.0": {
+        "runtime": {
+          "DesingPatterns.Observer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "designpatterns.facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "desingpatterns.builder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "desingpatterns.factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "desingpatterns.observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
